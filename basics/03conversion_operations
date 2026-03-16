@@ -1,0 +1,13 @@
+//let score = 102ab //now that ab is attached to number after conversion it will ne NAN not a number    
+
+//console.log(typeof "score");
+//console.log(typeof ("score"));
+
+//let valueinnumber = Number(score)
+//console.log(typeof valueinnumber);
+
+let islogin = 1 //if we leave it empty then it will be false and if any string then also true
+let booleanlogin = Boolean(islogin)
+
+console.log(booleanlogin)
+
